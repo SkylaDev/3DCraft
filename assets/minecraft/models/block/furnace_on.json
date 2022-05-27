@@ -5,7 +5,7 @@
 		"2": "block/furnace_side",
 		"3": "block/anvil",
 		"5": "block/fire_0",
-		"particle": "block/furnace_front"
+		"particle": "block/furnace_front_on"
 	},
 	"elements": [
 		{
