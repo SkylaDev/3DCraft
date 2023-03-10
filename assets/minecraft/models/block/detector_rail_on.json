@@ -1,0 +1,8 @@
+{
+	"credit": "Made by SkylaDev :3 https://skyla.dev/",
+	"parent": "minecraft:block/detector_rail",
+	"textures": {
+		"0": "block/detector_rail_on",
+		"particle": "block/detector_rail_on"
+	}
+}

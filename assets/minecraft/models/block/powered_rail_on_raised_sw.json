@@ -1,0 +1,8 @@
+{
+	"credit": "Made by SkylaDev :3 https://skyla.dev/",
+	"parent": "minecraft:block/powered_rail_raised_sw",
+	"textures": {
+		"1": "block/powered_rail_on",
+		"particle": "block/powered_rail_on"
+	}
+}

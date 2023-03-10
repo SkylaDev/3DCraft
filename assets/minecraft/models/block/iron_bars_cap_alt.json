@@ -1,0 +1,27 @@
+{
+	"credit": "Made by SkylaDev :3 https://skyla.dev/",
+	"textures": {
+		"0": "block/iron_bars",
+		"particle": "block/iron_bars"
+	},
+	"elements": [
+		{
+			"from": [7, 0.25, 7],
+			"to": [9, 15.75, 7.25],
+			"faces": {
+				"north": {"uv": [7, 0.25, 9, 15.75], "texture": "#0"},
+				"east": {"uv": [7, 0.25, 7.25, 15.75], "texture": "#0"},
+				"south": {"uv": [9, 0.25, 7, 15.75], "texture": "#0"},
+				"west": {"uv": [8.75, 0.25, 9, 15.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.8, 0.25, 7.2],
+			"to": [8.2, 15.75, 8],
+			"faces": {
+				"east": {"uv": [8, 0.25, 8.8, 15.75], "texture": "#0"},
+				"west": {"uv": [8.8, 0.25, 8, 15.75], "texture": "#0"}
+			}
+		}
+	]
+}

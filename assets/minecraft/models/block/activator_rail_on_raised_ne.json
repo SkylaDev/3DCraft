@@ -1,0 +1,8 @@
+{
+	"credit": "Made by SkylaDev :3 https://skyla.dev/",
+	"parent": "minecraft:block/activator_rail_raised_ne",
+	"textures": {
+		"2": "block/activator_rail_on",
+		"particle": "block/activator_rail_on"
+	}
+}
