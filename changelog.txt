@@ -1,0 +1,21 @@
+v0.3
+----
+
+- Now has a lite version of the pack
+	- Does not include common block model changes (planks) which can impact performance heavily
+
+- Fixed issue with typo in powered detector rail on slopes using vanilla model
+- Made some changes to furnace and crafting table models when placed on the player head
+- Changed ladder item to use block model as parent (updated some display values)
+- Remade iron bars to be more "vanilla-ry"
+	- If you prefer the old style, they are still available as an addon pack (3D craft - OldBars)
+
+- Added models
+	- Bookshelf
+	- Enchanting table
+	- Lectern
+	- Lever (item)
+	- Lily pad
+	- Planks (block, slab, stair, button, pressure plate and fence - For all types of wood in 1.19)
+	- Sugarcane (block)
+	- Torch

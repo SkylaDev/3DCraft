@@ -1,0 +1,7 @@
+{
+	"credit": "Made by SkylaDev :3 https://skyla.dev/",
+	"parent": "block/temp_plank_stairs_inner_sw",
+	"textures": {
+		"planks": "block/acacia_planks"
+	}
+}

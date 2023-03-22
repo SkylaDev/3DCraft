@@ -8,3 +8,8 @@ A small project that I have spent the last few years thinking about doing but ne
 
 All models are designed to give a new 3D look to the game while trying to keep the FPS count as happy as it can be, even while using shaders.
 
+
+Includes a lite version
+-----------------------
+
+A seperate version of the pack that removes some more performance impacting models. Under versions 0.3+ you will find a "3D craft - Lite" version of the pack under downloads!
