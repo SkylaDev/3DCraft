@@ -1,0 +1,8 @@
+{
+	"credit": "Made by SkylaDev :3 https://skyla.dev/",
+	"parent": "minecraft:block/emerald_ore",
+	"textures": {
+		"0": "block/deepslate_emerald_ore",
+		"particle": "block/deepslate_emerald_ore"
+	}
+}

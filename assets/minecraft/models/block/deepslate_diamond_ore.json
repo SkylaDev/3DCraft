@@ -1,0 +1,8 @@
+{
+	"credit": "Made by SkylaDev :3 https://skyla.dev/",
+	"parent": "minecraft:block/diamond_ore",
+	"textures": {
+		"0": "block/deepslate_diamond_ore",
+		"particle": "block/deepslate_diamond_ore"
+	}
+}

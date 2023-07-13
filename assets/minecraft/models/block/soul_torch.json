@@ -2,6 +2,6 @@
 	"credit": "Made by SkylaDev :3 https://skyla.dev/",
 	"parent": "block/temp_torch",
 	"textures": {
-		"torch": "block/torch"
+		"torch": "block/soul_torch"
 	}
 }

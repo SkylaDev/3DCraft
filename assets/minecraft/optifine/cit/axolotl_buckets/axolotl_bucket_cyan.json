@@ -1,0 +1,10 @@
+{
+	"credit": "Made by SkylaDev :3 https://skyla.dev/",
+	"parent": "item/axolotl_bucket",
+	"textures": {
+		"axolotl_1": "item/bucket_axolotl/bucket_axolotl_cyan_1",
+		"axolotl_2": "item/bucket_axolotl/bucket_axolotl_cyan_2",
+		"axolotl_3": "item/bucket_axolotl/bucket_axolotl_cyan_3",
+		"axolotl_4": "item/bucket_axolotl/bucket_axolotl_cyan_4"
+	}
+}

@@ -1,7 +1,7 @@
 {
 	"credit": "Made by SkylaDev :3 https://skyla.dev/",
-	"parent": "block/temp_torch",
+	"parent": "block/temp_mineral_block",
 	"textures": {
-		"torch": "block/torch"
+		"block": "block/gold_block"
 	}
 }
