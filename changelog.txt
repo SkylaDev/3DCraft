@@ -1,11 +1,22 @@
-v0.5
-----
+v0.5 + 0.4
+----------
 
 - Pack now will show as being for 1.20.1
 	- The pack should still work on 1.19 versions, just ignore the "made for a newer version" warning
 
+- New crafting table model
+	- If you prefer the old style, it is still available as an addon pack (3D craft - OldCraftingTable)
+
+- Updated Jack o' lantern to match the new torch model
+
 - Added models
+	- Torches (soul and regular)
 	- Lanterns (soul and regular)
 	- Cherry wood now follows wood design
 	- Buckets of all kinds
 		- CIT or OptiFine mod: axolotl color will show on item
+	- Ores of all forms
+	- Gold block
+	- Diamond block
+	- Iron block
+	- Netherite block
